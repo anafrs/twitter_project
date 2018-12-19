@@ -1,0 +1,5 @@
+*.py[cod]
+.vscode/
+venv/
+*credentials.py
+*.db
